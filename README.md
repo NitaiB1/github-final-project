@@ -1,2 +1,11 @@
 # github-final-project
-This repo is for the GitHub final project, oart of the Full Stack Web Developer course form IBM.
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+  p, principal amount
+  t, time in years
+  r, annual rate of interest 
+
+Output:
+  simple interest = p * t * r
